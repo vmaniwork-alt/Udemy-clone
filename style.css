@@ -216,12 +216,12 @@ body{
     justify-content: space-between;
 }
 /* media queris */
+
 @media screen and (max-width:800px) {
     body{
         font-size: 10px;
     }
 
-    
 }
 @media screen and (max-width:600px) {
     .course-card{
@@ -239,5 +239,4 @@ body{
         display: block;
     }
 
-    
 }
